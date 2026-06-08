@@ -14,26 +14,6 @@ A simple command-line Rock Paper Scissor game built with Python.
 * Python 3
 * Random Module
 
-## How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/rock-paper-scissor-python.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd rock-paper-scissor-python
-```
-
-3. Run the program
-
-```bash
-python game.py
-```
-
 ## Example
 
 ```text
